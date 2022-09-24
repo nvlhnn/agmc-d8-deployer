@@ -1,6 +1,3 @@
-# ci/cd prove
-![](images/cicd.png)
-
 # docker image url
 ```
 https://hub.docker.com/r/oktav1722/agmc-day-7
