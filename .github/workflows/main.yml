@@ -1,6 +1,6 @@
 name: Update Docker Image
 
-# the project is already auto deployed with heroku so I just want to update the docker image
+# the project is already auto deployed with heroku so I just want to auto update the docker image when branch updated
 
 # Trigger deployment only on push to master branch
 on:
